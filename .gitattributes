@@ -1,2 +1,21 @@
-# Auto detect text files and perform LF normalization
-* text=auto
++<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>hasan</title>
+		<link rel="stylesheet"href="css.css"type="text/css">
+	</head>
+	<Body>
+		<h1>NOW THAT U ARE HERE</h1>
+		
+		<figure id="links">
+			<img src="ohne.jpeg"width="35%"height="115%"alt=""><figcaption>HASANI SALAMI WITHOUT COW HAT</figcaption>
+		</figure>
+		<figure id="rechts">
+			<img src="mit.jpeg"width="35%"height="115%"alt=""><figcaption>HASANI SALAMI WITH COW HAT</figcaption>
+		</figure>		
+		<span class="umfrage">
+		  <br><br/><span class="text1">ZU DER <a href="https://poll.fm/10793562">UMFRAGE</a> </span>
+		</span>
+	</Body>
+</html>
